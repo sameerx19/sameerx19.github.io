@@ -26,13 +26,13 @@ body {
 
 .container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: -9px;
     padding: 0 20px;
 }
 
 .header {
     background-color: rgba(0, 0, 0, 0.5);
-    color: #fff;
+    color: #000000;
     padding: 20px 0;
 }
 
